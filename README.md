@@ -26,7 +26,7 @@ A lively comic convention scene with a bustling real-world background, featuring
 ```
 
 [ORIGINAL IMAGE](/images/originals/ziling_01.png)
-</detail>
+</details>
 
 <details>
 <summary><b>manga-character-meets-cosplayer-at-convention</b></summary>
@@ -39,4 +39,4 @@ A lively comic convention scene with a bustling real-world environment, featurin
 ```
 
 [ORIGINAL IMAGE](/images/originals/ziling_01.png)
-</detail>
+</details>
