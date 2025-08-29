@@ -40,3 +40,16 @@ A lively comic convention scene with a bustling real-world environment, featurin
 
 [ORIGINAL IMAGE](/images/originals/ziling_01.png)
 </details>
+
+<details>
+<summary><b>photo-to-character-figure-Blender-modeling-box-plastic-base-indoors-full-body-design</b></summary>
+
+<img src="/images/generated/photo-to-character-figure-Blender-modeling-box-plastic-base-indoors-full-body-design.png" />
+<br/>
+
+```text
+turn this photo into a character figure. Behind it, place a box with the character’s image printed on it, and a computer showing the Blender modeling process on its screen. In front of the box, add a round plastic base with the character figure standing on it. set the scene indoors if possible. If the original photo does not include the character’s full body, generate a complete character figure with appropriately designed legs that match the style and proportions of the visible parts of the character, ensuring a natural and cohesive appearance.
+```
+
+[ORIGINAL IMAGE](/images/originals/889619610683330719.png)
+</details>
