@@ -53,3 +53,29 @@ turn this photo into a character figure. Behind it, place a box with the charact
 
 [ORIGINAL IMAGE](/images/originals/889619610683330719.png)
 </details>
+
+<details>
+<summary><b>young-woman-3-view-orthographic-drawing-realistic-photo-character-sheet-white-background</b></summary>
+
+<img src="/images/generated/young-woman-3-view-orthographic-drawing-realistic-photo-character-sheet-white-background.jpg" />
+<br/>
+
+```text
+a 3-view orthographic drawing of a young woman from a photo, showing front, right side, and back views. Realistic photo style, professional character sheet style, on a white background
+```
+
+[ORIGINAL IMAGE](/images/originals/DIQMLi1-B23b9VLrSEfl2_image.png)
+</details>
+
+<details>
+<summary><b>young-woman-3-view-orthographic-drawing-realistic-character-sheet</b></summary>
+
+<img src="/images/generated/young-woman-3-view-orthographic-drawing-realistic-character-sheet.jpg" />
+<br/>
+
+```text
+a 3-view orthographic drawing of a young woman from a photo, showing front, right side, and back views. Realistic rendering, professional character sheet style, on a white background
+```
+
+[ORIGINAL IMAGE](/images/originals/DIQMLi1-B23b9VLrSEfl2_image.png)
+</details>
