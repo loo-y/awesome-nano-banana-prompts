@@ -15,14 +15,15 @@ Feel free to explore the prompts and see the transformations.<br>
 欢迎查阅这些提示词，并看看图片是如何变化的。
 
 # Prompts
-
 <details>
-<summary>manga-character-meets-cosplayer-at-convention</summary>
- 
+<summary><b>manga-character-meets-cosplayer-at-conventio</b>n</summary>
+
 <img src="/images/manga-character-meets-cosplayer-at-convention.jpg" />
 <br/>
 
 ```text
 A lively comic convention scene with a bustling real-world background, featuring a black-and-white manga-style character (based on the input image) standing in a vibrant, colorful cosplay event surrounded by crowds and detailed booths. The manga character retains her original comic art style, with distinct linework and expressive features, but rendered in a striking black-and-white monochromatic palette, avoiding any realistic human appearance. She faces a cosplayer dressed as her, mimicking her pose and outfit, both positioned at a 45-degree angle toward the viewer. The scene blends the surreal contrast of a black-and-white manga character in a vivid, realistic convention setting, with dynamic lighting, detailed crowd, and cosplay elements, emphasizing the magical encounter between the manga character and her real-world cosplayer counterpart.
 ```
+
+[ORIGINAL IMAGE](/images/originals/ziling_01.png)
 </detail>
