@@ -18,7 +18,7 @@ Feel free to explore the prompts and see the transformations.<br>
 <details>
 <summary><b>manga-character-meets-cosplayer-at-conventio</b>n</summary>
 
-<img src="/images/manga-character-meets-cosplayer-at-convention.jpg" />
+<img src="/images/generated/manga-character-meets-cosplayer-at-convention.jpg" />
 <br/>
 
 ```text
