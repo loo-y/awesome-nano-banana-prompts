@@ -102,3 +102,15 @@ A professional e-commerce fashion showcase featuring the clothing worn by the ch
 A professional e-commerce fashion showcase featuring the original character from the input image alongside a decomposed breakdown of their outfit, presented in a clean, studio-style layout under a single, consistent background color (pure white or light neutral gray) for a fresh and cohesive look. On one side, display the full-body view of the character in their complete outfit, retaining exact posture, clothing details, colors, and textures from the original image. Adjacent to it, decompose the outfit into individual pieces (e.g., top, bottom, jacket, shoes, accessories), each clearly displayed in an organized, grid-like or labeled format with high-definition close-ups. All elements are seamlessly integrated under the same background color to maintain a polished, catalog-style aesthetic. Subtle annotations or labels highlight each clothing item, ensuring clarity and suitability for online retail platforms.
 ```
 </details>
+
+
+<details>
+<summary><b>professional-hairstyle-showcase-3x3-grid-facial-preservation</b></summary>
+
+[ORIGINAL IMAGE](/images/originals/hairgirl.png)<br/>
+<img src="/images/generated/professional-hairstyle-showcase-3x3-grid-facial-preservation.png" />
+<br/>
+```text
+A professional hairstyle showcase based on the input image of a person's upper body and face, displaying the character with nine distinct hairstyles arranged in a clean, grid-like layout (3x3 grid) on a single image. Each hairstyle replaces the original hair while preserving the person's facial features, skin tone, and clothing details from the input image. The hairstyles include a variety of styles: short pixie cut, long wavy hair, sleek bob, voluminous curls, high ponytail, messy bun, side-swept bangs, braided updo, and straight layered cut, each rendered with realistic textures and natural lighting. The background is a consistent, neutral color (pure white or light gray) to emphasize the hairstyles and maintain a polished, professional look suitable for hairstyle selection. Subtle labels beneath each hairstyle indicate the style name for clarity.
+```
+</details>
