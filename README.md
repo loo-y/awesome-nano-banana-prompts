@@ -119,7 +119,7 @@ A professional hairstyle showcase based on the input image of a person's upper b
 <details>
 <summary><b>Realistic-Manga-Face-Fusion-Centered-Neutral-Background</b></summary>
 
-[ORIGINAL IMAGE](/images/originals/photo-1499952127939-9bbf5af6c51c.avif)<br/>
+[ORIGINAL IMAGE](/images/originals/photo-1499952127939-9bbf5af6c51c.jpg)<br/>
 <img src="/images/generated/Realistic-Manga-Face-Fusion-Centered-Neutral-Background.png" />
 <br/>
 ```text
