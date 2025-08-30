@@ -166,3 +166,15 @@ Transform the input person image into a classic mobile game character selection 
 Transform the input person image into a model showcasing the outfit with dynamic poses, presented as a full-body portrait across a single composite image with four distinct angles from left to right. Retain the person image's facial features, expression, and hairstyle, while seamlessly completing any missing parts (e.g., lower body) to display the full outfit, emphasizing its design, texture, and details. Arrange the four angles—front, 45-degree left, 45-degree right, and back—each with a unique dynamic pose to highlight the outfit: for example, adjusting the clothes for movement, or posing to show fabric drape, tailored to the outfit's style. Ensure natural, fluid movements that enhance the clothing's appearance. Use a plain gray white background to keep the focus on the outfit, with consistent, flattering lighting and subtle shadows to accentuate the dynamic display and create a cohesive, high-fashion look.
 ```
 </details>
+
+<details>
+<summary><b>person-3x3-expression-grid-keeping-features-facial-labels</b></summary>
+
+[ORIGINAL IMAGE](/images/originals/7ad096b4-0353-4329-ac24-cdc16e029c10.png)<br/>
+<img src="/images/generated/person-3x3-expression-grid-keeping-features-facial-labels.jpg" />
+<br/>
+
+```text
+Transform the input person image (half-body portrait) into a 3x3 grid of nine distinct images, each showcasing a different facial expression with the corresponding text label below the face, while retaining the original character's facial features, hairstyle, and clothing details. Arrange the expressions as follows: top row (happy with raised corners and squinted eyes labeled "Happy", sad with downturned mouth and raised inner brows labeled "Sad", angry with furrowed brows and narrowed eyes labeled "Angry"); middle row (surprised with wide eyes and open mouth labeled "Surprised", fearful with wide eyes and tense brows labeled "Fearful", disgusted with wrinkled nose and pursed lips labeled "Disgusted"); bottom row (confused with uneven brows and asymmetrical mouth labeled "Confused", proud with lifted chin and firm gaze labeled "Proud", embarrassed with tense smile and downward gaze labeled "Embarrassed"). Ensure each cell reflects the described expression naturally, with seamless completion of the lower body to match the original clothing style. Use a soft, unified background (e.g., light gray) and consistent lighting across all grids to maintain coherence and focus on the expressions.
+```
+</details>
