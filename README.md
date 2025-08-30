@@ -1,7 +1,7 @@
 # awesome-nano-banana-prompts
 
-A repository for image-to-image prompts.<br>
-图生图提示词仓库。
+A repository for nano-banana(gemini-2.5-flash-image-preview) image-to-image prompts.<br>
+这是一个nano-banana(gemini-2.5-flash-image-preview)图生图提示词仓库。
 
 ---
 
@@ -149,5 +149,20 @@ Transform the input person image into a game character selection interface. Disp
 <br/>
 ```text
 Transform the input person image into a classic mobile game character selection interface. Display the character on the right side as a full-body portrait, standing upright at a 45-degree angle facing both the screen and the left-side selection module, mimicking a selected state in a classic mobile game. Retain the person image's facial features, expression, and hairstyle, but adapt the clothing to a classic mobile game style (e.g., fantasy warrior armor, medieval robes, or adventurer outfits with hand-drawn or pixelated textures, avoidingdine avoiding modern sci-fi or high-tech elements), preserving the original clothing's color scheme and general aesthetic. If the input is a half-body image, seamlessly complete the lower body, matching the game-style clothing and proportions. On the left side, present a classic mobile game-style interface with selectable options including game-style clothing variations (e.g., knight armor, mage robes, rogue gear), martial stats (e.g., strength, agility), equipment (e.g., swords, staffs, bows), and health points, styled as interactive hand-drawn or pixelated UI elements with bold, colorful designs typical of classic mobile games. Arrange the layout to mimic a mobile game character selection screen, with a smooth, unified background gradient (e.g., warm beige to soft gray) for a cohesive, natural transition. Use vibrant, slightly desaturated colors, consistent lighting, and subtle glow effects to evoke a nostalgic, classic hand tour game aesthetic while maintaining the character's real-world facial essence.
+```
+</details>
+
+
+
+<details>
+<summary><b>Person-to-Model-Outfit-Showcase-Four-Angles-Dynamic-Poses-Full-Bod-gray-Background</b></summary>
+
+[ORIGINAL IMAGE](/images/originals/model-man.png)<br/>
+<img src="/images/generated/Person-to-Model-Outfit-Showcase-Four-Angles-Dynamic-Poses-Full-Bod-gray-Background-01.png" />
+<br/>
+<img src="/images/generated/Person-to-Model-Outfit-Showcase-Four-Angles-Dynamic-Poses-Full-Bod-gray-Background-02.jpeg" />
+<br/>
+```text
+Transform the input person image into a model showcasing the outfit with dynamic poses, presented as a full-body portrait across a single composite image with four distinct angles from left to right. Retain the person image's facial features, expression, and hairstyle, while seamlessly completing any missing parts (e.g., lower body) to display the full outfit, emphasizing its design, texture, and details. Arrange the four angles—front, 45-degree left, 45-degree right, and back—each with a unique dynamic pose to highlight the outfit: for example, adjusting the clothes for movement, or posing to show fabric drape, tailored to the outfit's style. Ensure natural, fluid movements that enhance the clothing's appearance. Use a plain gray white background to keep the focus on the outfit, with consistent, flattering lighting and subtle shadows to accentuate the dynamic display and create a cohesive, high-fashion look.
 ```
 </details>
