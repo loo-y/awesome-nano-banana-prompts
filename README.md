@@ -15,7 +15,7 @@ Feel free to explore the prompts and see the transformations.<br>
 欢迎查阅这些提示词，并看看图片是如何变化的。
 
 # Prompts
-<details>
+<details open>
 <summary><b>black-and-white-manga-character-meets-cosplayer-in-vibrant-convention-scene</b></summary>
 
 [ORIGINAL IMAGE](/images/originals/ziling_01.png)<br/>
@@ -29,7 +29,7 @@ A lively comic convention scene with a bustling real-world background, featuring
 
 </details>
 
-<details>
+<details open>
 <summary><b>manga-character-meets-cosplayer-at-convention</b></summary>
 
 [ORIGINAL IMAGE](/images/originals/ziling_01.png)<br/>
@@ -42,7 +42,7 @@ A lively comic convention scene with a bustling real-world environment, featurin
 
 </details>
 
-<details>
+<details open>
 <summary><b>photo-to-character-figure-Blender-modeling-box-plastic-base-indoors-full-body-design</b></summary>
 
 [ORIGINAL IMAGE](/images/originals/889619610683330719.png)<br/>
@@ -55,7 +55,7 @@ turn this photo into a character figure. Behind it, place a box with the charact
 
 </details>
 
-<details>
+<details open>
 <summary><b>young-woman-3-view-orthographic-drawing-realistic-photo-character-sheet-white-background</b></summary>
 
 [ORIGINAL IMAGE](/images/originals/DIQMLi1-B23b9VLrSEfl2_image.png)<br/>
@@ -68,7 +68,7 @@ a 3-view orthographic drawing of a young woman from a photo, showing front, righ
 
 </details>
 
-<details>
+<details open>
 <summary><b>young-woman-3-view-orthographic-drawing-realistic-character-sheet</b></summary>
 
 [ORIGINAL IMAGE](/images/originals/DIQMLi1-B23b9VLrSEfl2_image.png)<br/>
@@ -81,7 +81,7 @@ a 3-view orthographic drawing of a young woman from a photo, showing front, righ
 
 </details>
 
-<details>
+<details open>
 <summary><b>ecommerce-fashion-showcase-studio-style-clothing-breakdown-clean-minimalistic-retail-display</b></summary>
 
 [ORIGINAL IMAGE](/images/originals/screenshot-2025-08-29-222418.png)<br/>
@@ -92,7 +92,7 @@ A professional e-commerce fashion showcase featuring the clothing worn by the ch
 ```
 </details>
 
-<details>
+<details open>
 <summary><b>Professional-Ecommerce-Fashion-Showcase-Outfit-Decomposition-Studio-Style-Light-Gray-Background</b></summary>
 
 [ORIGINAL IMAGE](/images/originals/1756487739555-74386a12.png)<br/>
@@ -104,7 +104,7 @@ A professional e-commerce fashion showcase featuring the original character from
 </details>
 
 
-<details>
+<details open>
 <summary><b>professional-hairstyle-showcase-3x3-grid-facial-preservation</b></summary>
 
 [ORIGINAL IMAGE](/images/originals/hairgirl.png)<br/>
@@ -116,7 +116,7 @@ A professional hairstyle showcase based on the input image of a person's upper b
 </details>
 
 
-<details>
+<details open>
 <summary><b>Realistic-Manga-Face-Fusion-Centered-Neutral-Background</b></summary>
 
 [ORIGINAL IMAGE](/images/originals/photo-1499952127939-9bbf5af6c51c.jpg)<br/>
@@ -129,7 +129,7 @@ A striking, high-definition frontal portrait of the character from the input pho
 
 
 
-<details>
+<details open>
 <summary><b>Game-Character-Selection-Portrait-With-Styled-Clothing-UI</b></summary>
 
 [ORIGINAL IMAGE](/images/originals/ac84b0ad-62cc-404b-967a-1c82fcbdcbb5.png)<br/>
@@ -141,7 +141,7 @@ Transform the input person image into a game character selection interface. Disp
 </details>
 
 
-<details>
+<details open>
 <summary><b>Person-Character-Conversion-MobileGame-Selection-Interface-45-Degree-Portrait-Friendly-Fantasy-Retro-UI</b></summary>
 
 [ORIGINAL IMAGE](/images/originals/b0685ab1-a0cf-4bcc-8316-c25ce9bbd83f.png)<br/>
@@ -154,7 +154,7 @@ Transform the input person image into a classic mobile game character selection 
 
 
 
-<details>
+<details open>
 <summary><b>Person-to-Model-Outfit-Showcase-Four-Angles-Dynamic-Poses-Full-Bod-gray-Background</b></summary>
 
 [ORIGINAL IMAGE](/images/originals/model-man.png)<br/>
@@ -167,7 +167,7 @@ Transform the input person image into a model showcasing the outfit with dynamic
 ```
 </details>
 
-<details>
+<details open>
 <summary><b>person-3x3-expression-grid-keeping-features-facial-labels</b></summary>
 
 [ORIGINAL IMAGE](/images/originals/7ad096b4-0353-4329-ac24-cdc16e029c10.png)<br/>
