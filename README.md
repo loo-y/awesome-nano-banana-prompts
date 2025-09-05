@@ -242,6 +242,7 @@ A tranquil young woman with a serene and reflective gaze, standing on a snow-cov
 ```text
 in Studio, pure white background, a cosplayer dressed in an identical outfit, as the girl in the reference image,  mimicking her pose and outfit.
 ```
+<br />
 ```text
 in Studio, pure white background, a cosplayer dressed in an identical outfit, as the girl in the reference image,  mimicking her pose and outfit. enhanced with film grain for a gritty, authentic particle effect reminiscent of 35mm film stock; 8K ultra-HD, sharp and believable, no abstraction.
 ```
