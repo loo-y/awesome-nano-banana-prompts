@@ -196,5 +196,36 @@ A single anime-style character, faithfully preserving the specific facial featur
 A young woman with long dark hair, wearing a simple yet stylish neutral sweater and jeans, with a tender and contemplative expression from the reference selfie (face must remain unchanged from the input image), standing in a pose facing the camera directly with a soft downward gaze, holding a worn-out journal close to her chest, set against a softly blurred indoor scene with light wooden walls and a rainy window in the background, realistic documentary-style with cinematic depth and Fuji film grain texture for subtle retro particles, saturation level 70 for light and airy tones, contrast ratio 1.1 for gentle emotional warmth, sharpness value 4.0 for delicate facial details, color temperature 4500K for soft pastel indoor light, medium depth of field to keep the background present but not overpowering, 8K photorealistic, heartfelt and introspective mood evoking a poignant emotional drama or coming-of-age story.
 ```
 </details>
+<br />
+<details open>
+<summary><b>春serene-woman-meadow-film-aesthetic-portrait</b></summary>
 
+[原图](/images/originals/b0685ab1-a0cf-4bcc-8316-c25ce9bbd83f.png)<br/>
+![生图](/images/generated/serene-woman-meadow-film-aesthetic-portrait.png)
+<br/>
+```text
+A serene young woman with a calm and hopeful expression, her loose linen dress, with a tender and contemplative expression from the reference selfie (face must remain unchanged from the input image), standing in a vibrant meadow under soft morning light, surrounded by blooming wildflowers and delicate green buds,realistic documentary-style with cinematic depth and Fuji film grain texture for subtle retro particles, saturation level 70 for light and airy tones, contrast ratio 1.1 for gentle emotional warmth, sharpness value 4.0 for delicate facial details, color temperature 5000K for warm spring sunlight, medium depth of field to keep the background present but not overpowering, 8K photorealistic, heartfelt and introspective mood evoking a poignant emotional drama or coming-of-age story.
+```
+</details>
+<br />
+<details open>
+<summary><b>夏barefoot-golden-hour-beach-walk-woman-cinematic-fuji-grain-8k-vibrant</b></summary>
 
+[原图](/images/originals/b0685ab1-a0cf-4bcc-8316-c25ce9bbd83f.png)<br/>
+![生图](/images/generated/barefoot-golden-hour-beach-walk-woman-cinematic-fuji-grain-8k-vibrant.png)
+<br/>
+```text
+A radiant young woman with a relaxed and joyful demeanor, walking barefoot along a sunlit beach at golden hour, her lightweight cotton sundress, with a tender and contemplative expression from the reference selfie (face must remain unchanged from the input image), the ocean sparkling with deep blues and emerald greens in the background, realistic documentary-style with cinematic depth and Fuji film grain texture, saturation level 80 for bold and summery vibrancy, contrast ratio 1.3 for dynamic sunlit highlights, sharpness value 4.5 for crisp environmental textures, color temperature 5500K for rich summer warmth, medium depth of field to balance her with the vivid coastal scene, 8K photorealistic, radiating a carefree and uplifting mood evoking endless summer adventures.
+```
+</details>
+<br />
+<details open>
+<summary><b>冬serene-woman-snow-overcast-fuji-65deg-harmony-introspection</b></summary>
+
+[原图](/images/originals/b0685ab1-a0cf-4bcc-8316-c25ce9bbd83f.png)<br/>
+![生图](/images/generated/serene-woman-snow-overcast-fuji-65deg-harmony-introspection.png)
+<br/>
+```text
+A tranquil young woman with a serene and reflective gaze, standing on a snow-covered hill under a pale overcast sky, her thick wool scarf and coat in deep navy and soft ivory tones contrasting the pristine white snow, realistic documentary-style with cinematic depth and Fuji film grain texture, saturation level 65 for cool and subdued elegance, contrast ratio 1.0 for gentle monochromatic harmony, sharpness value 4.0 for delicate snowflake details, color temperature 3500K for crisp winter light, shallow depth of field to highlight her against the minimalist snowy landscape, 8K photorealistic, evoking a peaceful and introspective mood reminiscent of quiet resilience and winter’s stillness.
+```
+</details>
