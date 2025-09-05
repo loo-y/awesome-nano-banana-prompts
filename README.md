@@ -16,6 +16,26 @@ Feel free to explore the prompts and see the transformations.<br>
 
 # Prompts
 <details open>
+<summary><b>漫画转真人 studio-film-grain-doppelgänger-cosplay-8K-sharp-reference</b></summary>
+
+| 原始图片 | 生成图片 |
+|---------|---------|
+| ![原始](/images/originals/5bfbe67b-7049-49e0-a332-ae6a000b3e03.png) | ![生成](/images/generated/studio-film-grain-doppelganger-cosplay-8K-sharp-reference-01.png) |
+| ![原始](/images/originals/0b6f66ca-d64f-4114-a9f0-7c96b842094d.png) | ![生成](/images/generated/studio-film-grain-doppelganger-cosplay-8K-sharp-reference-02.png) |
+| ![原始](/images/originals/fdf7bd42-952a-424c-abf6-5509cd3e23bb.png) | ![生成](/images/generated/studio-film-grain-doppelganger-cosplay-8K-sharp-reference-03.png) |
+<br/>
+
+```text
+in Studio, pure white background, a cosplayer dressed in an identical outfit, as the girl in the reference image,  mimicking her pose and outfit.
+```
+<br />
+
+```text
+in Studio, pure white background, a cosplayer dressed in an identical outfit, as the girl in the reference image,  mimicking her pose and outfit. enhanced with film grain for a gritty, authentic particle effect reminiscent of 35mm film stock; 8K ultra-HD, sharp and believable, no abstraction.
+```
+</details>
+<br />
+<details open>
 <summary><b>black-and-white-manga-character-meets-cosplayer-in-vibrant-convention-scene</b></summary>
 
 [原图](/images/originals/ziling_01.png)<br/>
@@ -230,22 +250,4 @@ A tranquil young woman with a serene and reflective gaze, standing on a snow-cov
 ```
 </details>
 <br />
-<details open>
-<summary><b>漫画转真人 studio-film-grain-doppelgänger-cosplay-8K-sharp-reference</b></summary>
 
-| 原始图片 | 生成图片 |
-|---------|---------|
-| ![原始](/images/originals/5bfbe67b-7049-49e0-a332-ae6a000b3e03.png) | ![生成](/images/generated/studio-film-grain-doppelganger-cosplay-8K-sharp-reference-01.png) |
-| ![原始](/images/originals/0b6f66ca-d64f-4114-a9f0-7c96b842094d.png) | ![生成](/images/generated/studio-film-grain-doppelganger-cosplay-8K-sharp-reference-02.png) |
-| ![原始](/images/originals/fdf7bd42-952a-424c-abf6-5509cd3e23bb.png) | ![生成](/images/generated/studio-film-grain-doppelganger-cosplay-8K-sharp-reference-03.png) |
-<br/>
-
-```text
-in Studio, pure white background, a cosplayer dressed in an identical outfit, as the girl in the reference image,  mimicking her pose and outfit.
-```
-<br />
-
-```text
-in Studio, pure white background, a cosplayer dressed in an identical outfit, as the girl in the reference image,  mimicking her pose and outfit. enhanced with film grain for a gritty, authentic particle effect reminiscent of 35mm film stock; 8K ultra-HD, sharp and believable, no abstraction.
-```
-</details>
