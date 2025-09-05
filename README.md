@@ -198,7 +198,7 @@ A young woman with long dark hair, wearing a simple yet stylish neutral sweater 
 </details>
 <br />
 <details open>
-<summary><b>春serene-woman-meadow-film-aesthetic-portrait</b></summary>
+<summary><b>春 serene-woman-meadow-film-aesthetic-portrait</b></summary>
 
 [原图](/images/originals/b0685ab1-a0cf-4bcc-8316-c25ce9bbd83f.png)<br/>
 ![生图](/images/generated/serene-woman-meadow-film-aesthetic-portrait.png)
@@ -209,7 +209,7 @@ A serene young woman with a calm and hopeful expression, her loose linen dress, 
 </details>
 <br />
 <details open>
-<summary><b>夏barefoot-golden-hour-beach-walk-woman-cinematic-fuji-grain-8k-vibrant</b></summary>
+<summary><b>夏 barefoot-golden-hour-beach-walk-woman-cinematic-fuji-grain-8k-vibrant</b></summary>
 
 [原图](/images/originals/b0685ab1-a0cf-4bcc-8316-c25ce9bbd83f.png)<br/>
 ![生图](/images/generated/barefoot-golden-hour-beach-walk-woman-cinematic-fuji-grain-8k-vibrant.png)
@@ -220,12 +220,29 @@ A radiant young woman with a relaxed and joyful demeanor, walking barefoot along
 </details>
 <br />
 <details open>
-<summary><b>冬serene-woman-snow-overcast-fuji-65deg-harmony-introspection</b></summary>
+<summary><b>冬 serene-woman-snow-overcast-fuji-65deg-harmony-introspection</b></summary>
 
 [原图](/images/originals/b0685ab1-a0cf-4bcc-8316-c25ce9bbd83f.png)<br/>
 ![生图](/images/generated/serene-woman-snow-overcast-fuji-65deg-harmony-introspection.png)
 <br/>
 ```text
 A tranquil young woman with a serene and reflective gaze, standing on a snow-covered hill under a pale overcast sky, her thick wool scarf and coat in deep navy and soft ivory tones contrasting the pristine white snow, realistic documentary-style with cinematic depth and Fuji film grain texture, saturation level 65 for cool and subdued elegance, contrast ratio 1.0 for gentle monochromatic harmony, sharpness value 4.0 for delicate snowflake details, color temperature 3500K for crisp winter light, shallow depth of field to highlight her against the minimalist snowy landscape, 8K photorealistic, evoking a peaceful and introspective mood reminiscent of quiet resilience and winter’s stillness.
+```
+</details>
+<br />
+<details open>
+<summary><b>漫画转真人 studio-film-grain-doppelgänger-cosplay-8K-sharp-reference</b></summary>
+
+| 原始图片 | 生成图片 |
+|---------|---------|
+| ![原始](/images/originals/5bfbe67b-7049-49e0-a332-ae6a000b3e03.png) | ![生成](/images/generated/studio-film-grain-doppelganger-cosplay-8K-sharp-reference-01.png) |
+| ![原始](/images/originals/0b6f66ca-d64f-4114-a9f0-7c96b842094d.png) | ![生成](/images/generated/studio-film-grain-doppelganger-cosplay-8K-sharp-reference-02.png) |
+| ![原始](/images/originals/fdf7bd42-952a-424c-abf6-5509cd3e23bb.png) | ![生成](/images/generated/studio-film-grain-doppelganger-cosplay-8K-sharp-reference-03.png) |
+<br/>
+```text
+in Studio, pure white background, a cosplayer dressed in an identical outfit, as the girl in the reference image,  mimicking her pose and outfit.
+```
+```text
+in Studio, pure white background, a cosplayer dressed in an identical outfit, as the girl in the reference image,  mimicking her pose and outfit. enhanced with film grain for a gritty, authentic particle effect reminiscent of 35mm film stock; 8K ultra-HD, sharp and believable, no abstraction.
 ```
 </details>
