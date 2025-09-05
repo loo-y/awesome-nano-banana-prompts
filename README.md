@@ -192,3 +192,18 @@ A highly detailed illustration of a single person’s portrait, faithfully prese
 ```
 </details>
 
+
+<details open>
+<summary><b>Faithful-2×2-Clothing-Pose-Anime-Expressions-4K</b></summary>
+
+[ORIGINAL IMAGE](/images/originals/b0685ab1-a0cf-4bcc-8316-c25ce9bbd83f.png)<br/>
+<img src="/images/generated/Faithful-2×2-Clothing-Pose-Anime-Expressions-4K-01.jpg" />
+<img src="/images/generated/Faithful-2×2-Clothing-Pose-Anime-Expressions-4K-02.jpg" />
+<br/>
+
+```text
+A single anime-style character, faithfully preserving the specific facial features, hairstyle, skin tone, and clothing details (e.g., exact outfit design, colors, accessories) from the original input image, depicted in a 2x2 grid showcasing four distinct expressions and slight variations in appearance (joyful smile, determined look, shy blush, confident smirk; each with subtle outfit changes like a scarf, hat, or jacket variation), close-up portrait of face and upper body, dynamic poses (slight head tilt, hand on chin, hair adjustment), modern anime style inspired by shonen and shoujo anime, ultra-detailed, 4K resolution, crisp clean linework, accurate clothing textures and patterns, large sparkling anime eyes, subtle highlights and shadows, vibrant balanced colors, expressive, dynamic, engaging atmosphere
+```
+</details>
+
+
