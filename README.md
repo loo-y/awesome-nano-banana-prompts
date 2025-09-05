@@ -178,3 +178,17 @@ Transform the input person image into a model showcasing the outfit with dynamic
 Transform the input person image (half-body portrait) into a 3x3 grid of nine distinct images, each showcasing a different facial expression with the corresponding text label below the face, while retaining the original character's facial features, hairstyle, and clothing details. Arrange the expressions as follows: top row (happy with raised corners and squinted eyes labeled "Happy", sad with downturned mouth and raised inner brows labeled "Sad", angry with furrowed brows and narrowed eyes labeled "Angry"); middle row (surprised with wide eyes and open mouth labeled "Surprised", fearful with wide eyes and tense brows labeled "Fearful", disgusted with wrinkled nose and pursed lips labeled "Disgusted"); bottom row (confused with uneven brows and asymmetrical mouth labeled "Confused", proud with lifted chin and firm gaze labeled "Proud", embarrassed with tense smile and downward gaze labeled "Embarrassed"). Ensure each cell reflects the described expression naturally, with seamless completion of the lower body to match the original clothing style. Use a soft, unified background (e.g., light gray) and consistent lighting across all grids to maintain coherence and focus on the expressions.
 ```
 </details>
+
+
+<details open>
+<summary><b>ultra-detailed-person-portrait-to-pixel-avatar</b></summary>
+
+[ORIGINAL IMAGE](/images/originals/b0685ab1-a0cf-4bcc-8316-c25ce9bbd83f.png)<br/>
+<img src="/images/generated/ultra-detailed-person-portrait-to-pixel-avatar.jpeg" />
+<br/>
+
+```text
+A highly detailed illustration of a single person’s portrait, faithfully preserving the specific facial features, hairstyle, skin tone, and clothing details (e.g., exact outfit design, colors, and accessories) from the original input image, depicted as a stylized avatar with clean lines and vibrant colors, close-up headshot, neutral or subtle smile, set pure white background,  illustration style inspired by contemporary vector art, ultra-detailed, 4K resolution, crisp precise linework, smooth color gradients, accurate clothing textures and patterns, subtle highlights and shadows, vibrant balanced colors, friendly, approachable, modern, professional atmosphere
+```
+</details>
+
