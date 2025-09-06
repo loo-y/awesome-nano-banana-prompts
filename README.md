@@ -276,6 +276,20 @@ A relaxed person in a cozy cardigan, with the reference selfie’s facial featur
 </details>
 <br />
 <details open>
+<summary><b>harry-potter-costume-same-face-8k-cinematic-fairy-lightgrain-70sat-4800k</b></summary>
+
+| 原始图片 | 生成图片 |
+|---------|---------|
+| ![原始](/images/generated/studio-film-grain-doppelganger-cosplay-8K-sharp-reference-02.png) | ![生成](/images/generated/harry-potter-costume-same-face-8k-cinematic-fairy-lightgrain-70sat-4800k.jpg) |
+<br />
+
+```text
+in Studio, pure light pink background, A person with the body and clothing from the input character image, transformed into a Harry Potter-style outfit including a dark wizard robe with intricate silver embroidery, a Gryffindor scarf, and a pointed wizard hat, holding a wooden magic wand as a prop, with the face remaining unchanged from the input image (no alteration to facial features allowed), cinematic fantasy style with Fuji film grain texture for subtle retro particles, saturation level 70 for rich magical tones, contrast ratio 1.3 for enhanced outfit details, sharpness value 4.2 for clear prop and fabric textures, color temperature 4800K for warm mystical light, medium depth of field to focus on the character, 8K photorealistic, enchanting and adventurous mood evoking a Hogwarts-inspired scene.
+```
+</details>
+
+<br />
+<details open>
 <summary><b>Infographics-Top-Down-红烧肉-Pork-Belly-Braised-Ingredients-Outlined-Steplist-Tasty-Served-Flower</b></summary>
 
 ![生成](/images/generated/Infographics-Top-Down-Hong-Shao-Rou-Pork-Belly-Braised-Ingredients-Outlined-Steplist-Tasty-Served-Flower.jpeg)
