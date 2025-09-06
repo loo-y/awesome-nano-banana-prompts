@@ -251,3 +251,16 @@ A tranquil young woman with a serene and reflective gaze, standing on a snow-cov
 </details>
 <br />
 
+
+<details open>
+<summary><b>relaxed-self-fb-cardigan-cafe-window-latte-grain8k</b></summary>
+
+| 原始图片 | 生成图片 |
+|---------|---------|
+| ![原始](/images/originals/007a978f-a84e-4b81-aebb-8fd1a18abbb6.png) | ![生成](/images/generated/relaxed-self-fb-cardigan-cafe-window-latte-grain8k.png) |
+<br />
+
+```text
+A relaxed person in a cozy cardigan, with the reference selfie’s facial features(the face must remain unchanged from the input image), sitting by a large cafe window with a latte in hand, casually leaning on the table with a soft gaze outward, city street reflections on glass, wooden table with a notebook and pen, soft indoor lighting with cinematic atmosphere and Fuji film grain texture for subtle particles, saturation level 70 for warm coffee tones and cool street hues, contrast ratio 1.4 to highlight reflections and textures, sharpness value 5 for detailed edges, color temperature 4500K for cozy amber glow, 8K ultra-detailed, intimate and contemplative mood evoking a quiet urban moment.
+```
+</details>
