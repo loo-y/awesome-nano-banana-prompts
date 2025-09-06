@@ -38,10 +38,9 @@ in Studio, pure white background, a cosplayer dressed in an identical outfit, as
 <details open>
 <summary><b>isometric-map-3d-rendered-model</b></summary>
 
-| 原图 <br/> ![原始](/images/originals/ffb4ff83-9f92-46ec-bb02-b7d033cceff1.png) |
+| ![原始](/images/originals/ffb4ff83-9f92-46ec-bb02-b7d033cceff1.png) |
 |---------|
-| 生图 <br/> ![生成](/images/generated/isometric-map-3d-rendered-model.jpg) |
-<br/>
+| ![生成](/images/generated/isometric-map-3d-rendered-model.jpg) |
 
 ```text
 A highly detailed 3D tabletop world extruded from a hand-drawn fantasy map, rendered in a photorealistic isometric style, transforming contour lines into dynamic, layered elevations with rugged mountains, rolling hills, and steep cliffs, featuring flowing rivers with reflective water surfaces, lush forests, and scattered villages with detailed structures like castles, cottages, and bridges, all interpreted from map symbols with accurate proportions and textures; displayed under vibrant daytime lighting with soft shadows, set against a subtle grid background to emphasize the 3D coordinate system; to the right, a concise design explanation section in a vertical layout with text annotations detailing key landscape features (e.g., mountain ranges, river paths, village layouts), accompanied by small, labeled 3D-rendered diagrams of specific elements, set against a minimalist white background, ultra-detailed, 8K resolution, ensuring a navigable, realistic 3D model without hand-drawn or illustrative effects.
