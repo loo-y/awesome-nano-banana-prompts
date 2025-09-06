@@ -38,9 +38,9 @@ in Studio, pure white background, a cosplayer dressed in an identical outfit, as
 <details open>
 <summary><b>isometric-map-3d-rendered-model</b></summary>
 
-| ![原始](/images/originals/ffb4ff83-9f92-46ec-bb02-b7d033cceff1.png) |
+| 原图 <br/> ![原始](/images/originals/ffb4ff83-9f92-46ec-bb02-b7d033cceff1.png) |
 |---------|
-| ![生成](/images/generated/isometric-map-3d-rendered-model.jpg) |
+| 生图 <br/> ![生成](/images/generated/isometric-map-3d-rendered-model.jpg) |
 <br/>
 
 ```text
