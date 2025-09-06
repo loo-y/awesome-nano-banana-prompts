@@ -250,8 +250,6 @@ A tranquil young woman with a serene and reflective gaze, standing on a snow-cov
 ```
 </details>
 <br />
-
-
 <details open>
 <summary><b>relaxed-self-fb-cardigan-cafe-window-latte-grain8k</b></summary>
 
@@ -262,5 +260,51 @@ A tranquil young woman with a serene and reflective gaze, standing on a snow-cov
 
 ```text
 A relaxed person in a cozy cardigan, with the reference selfie’s facial features(the face must remain unchanged from the input image), sitting by a large cafe window with a latte in hand, casually leaning on the table with a soft gaze outward, city street reflections on glass, wooden table with a notebook and pen, soft indoor lighting with cinematic atmosphere and Fuji film grain texture for subtle particles, saturation level 70 for warm coffee tones and cool street hues, contrast ratio 1.4 to highlight reflections and textures, sharpness value 5 for detailed edges, color temperature 4500K for cozy amber glow, 8K ultra-detailed, intimate and contemplative mood evoking a quiet urban moment.
+```
+</details>
+<br />
+<details open>
+<summary><b>Infographics-Top-Down-红烧肉-Pork-Belly-Braised-Ingredients-Outlined-Steplist-Tasty-Served-Flower</b></summary>
+
+![生成](/images/generated/Infographics-Top-Down-Hong-Shao-Rou-Pork-Belly-Braised-Ingredients-Outlined-Steplist-Tasty-Served-Flower.jpeg)
+<br />
+
+```text
+Objective: Create a step-by-step recipe infographic for the following recipe.
+
+The infographic must meet the following criteria:
+
+Top-down, minimal style on white background.
+Labeled photos of the ingredients.
+Dotted lines showing a summary of key recipe steps with icons representing the action in the step.
+Final plated dish at the bottom.
+The recipe is:
+
+Title: Hong Shao Rou (Braised Pork Belly)
+
+Description: Savory and tender braised pork belly in a rich, sweet and savory sauce.  Often served with rice and steamed vegetables.
+
+Ingredients:
+
+"Pork Belly 500g" (or specify cut: "Pork Belly Chunks 500g")
+"Ginger 3 slices"
+"Scallions 2 stalks"
+"Rock Sugar 30g"
+"Light Soy Sauce 2 tbsp"
+"Dark Soy Sauce 1 tbsp"
+"Shaoxing Wine 2 tbsp"
+"Star Anise 2 pieces"
+"Water (enough to cover pork)"
+"Vegetable Oil 1 tbsp"
+Steps:
+
+Blanch the pork belly in boiling water for 5 minutes. Remove and rinse. (Icon: Pot with boiling water and pork)
+Cut the pork belly into 2-3 cm cubes (if not already). (Icon: Knife and cutting board)
+Heat vegetable oil in a wok or pot over medium heat. Add rock sugar and cook until caramelized, creating a light golden color. (Icon: Wok with melting sugar)
+Add the pork belly to the caramelized sugar and stir-fry until coated and lightly browned. (Icon: Wok with pork and sugar)
+Add ginger, scallions, star anise, light soy sauce, dark soy sauce, and Shaoxing wine. Stir-fry briefly. (Icon: Wok with pork and aromatics)
+Add enough water to cover the pork belly. Bring to a boil, then reduce heat to low, cover, and simmer for 1.5-2 hours, or until the pork is very tender. (Icon: Covered pot with simmering liquid)
+Increase the heat to medium and reduce the sauce until it thickens and coats the pork. (Icon: Uncovered pot with reducing sauce)
+Serve hot with rice and steamed vegetables. (Icon: Bowl of rice with Hong Shao Rou)
 ```
 </details>
