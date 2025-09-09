@@ -78,7 +78,7 @@ A lively comic convention scene with a bustling real-world environment, featurin
 <br/>
 
 ```text
-Refer to the avatars style and design in the top of the image to generate icons sheet(at most 9 icons with different expressions and background colors, the style and design need to be exactly the same consistent with the avatar above, Avatar has different background colors, with a white border around the outer rounded square, The avatar needs to occupy the square as much as possible, And each square needs to have a shadow effect.)  for the character in the lower half. The icons should reflect only the head position of the character in the lower half, resembling a headshot icon. The text below the icon should be "Jessica".
+Refer to the avatars style and design in the top of the image to generate icons(total 9 icons with different expressions[Happy, Angry, Surprised, Wronged, Shy, Sad, Speechless, Smug, Confused] and background colors, the style and design need to be exactly the same consistent with the avatar above, Avatar has different background colors, with a white border around the outer rounded square, The avatar needs to occupy the square as much as possible, And each square needs to have a shadow effect.)  for the character in the lower half The icons should reflect only the head position of the character in the lower half, resembling a headshot icon. The text below the icon should be same as the expression text, and the text color should be same as the avatar's background color. The entire image has a gray heavy grain texture background as its base color. Additionally, apart from the avatars, there should be no other content. The empty spaces can be left blank. Arrange 3 avatars per row, with a total of 3 rows.
 ```
 </details>
 <br />
