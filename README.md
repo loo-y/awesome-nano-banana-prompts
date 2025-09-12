@@ -20,6 +20,7 @@ Feel free to explore the prompts and see the transformations.<br>
 
 | 原始图片 | 生成图片 |
 |---------|---------|
+| ![原始](/images/originals/845a5d41-d0c3-4b19-937e-37738fa2643f.png) | ![生成](/images/generated/studio-film-grain-doppelganger-cosplay-8K-sharp-reference-00.png) |
 | ![原始](/images/originals/5bfbe67b-7049-49e0-a332-ae6a000b3e03.png) | ![生成](/images/generated/studio-film-grain-doppelganger-cosplay-8K-sharp-reference-01.png) |
 | ![原始](/images/originals/0b6f66ca-d64f-4114-a9f0-7c96b842094d.png) | ![生成](/images/generated/studio-film-grain-doppelganger-cosplay-8K-sharp-reference-02.png) |
 | ![原始](/images/originals/fdf7bd42-952a-424c-abf6-5509cd3e23bb.png) | ![生成](/images/generated/studio-film-grain-doppelganger-cosplay-8K-sharp-reference-03.png) |
