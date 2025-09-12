@@ -260,7 +260,7 @@ A serene young woman with a calm and hopeful expression, her loose linen dress, 
 ![生图](/images/generated/barefoot-golden-hour-beach-walk-woman-cinematic-fuji-grain-8k-vibrant.png)
 <br/>
 ```text
-A radiant young woman with a relaxed and joyful demeanor, walking barefoot along a sunlit beach at golden hour, her lightweight cotton sundress, with a tender and contemplative expression from the reference selfie (face must remain unchanged from the input image), the ocean sparkling with deep blues and emerald greens in the background, realistic documentary-style with cinematic depth and Fuji film grain texture, saturation level 80 for bold and summery vibrancy, contrast ratio 1.3 for dynamic sunlit highlights, sharpness value 4.5 for crisp environmental textures, color temperature 5500K for rich summer warmth, medium depth of field to balance her with the vivid coastal scene, 8K photorealistic, radiating a carefree and uplifting mood evoking endless summer adventures.
+A radiant young woman with a relaxed and joyful demeanor, walking barefoot along a sunlit beach at golden hour, her lightweight cotton sundress, with a tender and contemplative expression from the reference selfie (the face must remain unchanged from the input image, must retain the original face, do not change the gender of the subject, no alteration to facial features allowed), the ocean sparkling with deep blues and emerald greens in the background, realistic documentary-style with cinematic depth and Fuji film grain texture, saturation level 80 for bold and summery vibrancy, contrast ratio 1.3 for dynamic sunlit highlights, sharpness value 4.5 for crisp environmental textures, color temperature 5500K for rich summer warmth, medium depth of field to balance her with the vivid coastal scene, 8K photorealistic, radiating a carefree and uplifting mood evoking endless summer adventures.
 ```
 </details>
 <br />
@@ -272,6 +272,26 @@ A radiant young woman with a relaxed and joyful demeanor, walking barefoot along
 <br/>
 ```text
 A tranquil young woman with a serene and reflective gaze, standing on a snow-covered hill under a pale overcast sky, her thick wool scarf and coat in deep navy and soft ivory tones contrasting the pristine white snow, realistic documentary-style with cinematic depth and Fuji film grain texture, saturation level 65 for cool and subdued elegance, contrast ratio 1.0 for gentle monochromatic harmony, sharpness value 4.0 for delicate snowflake details, color temperature 3500K for crisp winter light, shallow depth of field to highlight her against the minimalist snowy landscape, 8K photorealistic, evoking a peaceful and introspective mood reminiscent of quiet resilience and winter’s stillness.
+```
+</details>
+<br />
+
+<details open>
+<summary><b>Half-Body-Ame-CorpHeadshot-Woman-UnchangedFace-FreshLighting</b></summary>
+
+| 原始图片 | 生成图片 |
+|---------|---------|
+| ![原始](/images/originals/128f225c-726b-4ba1-afa1-7c82f70cc1f4.png) | ![生成](/images/generated/Half-Body-Ame-CorpHeadshot-Woman-UnchangedFace-FreshLighting.png) |
+<br />
+
+```text
+Transform the uploaded portrait(the face must remain unchanged from the input image, must retain the original face, do not change the gender of the subject, no alteration to facial features allowed) into a professional American-style half-body headshot in corporate photography style, faithfully preserving the original person's facial features, identity, skin texture, and proportions without any alterations --ar 2:3 --v 6.
+Subject: A confident woman in her professional prime, relaxed and natural expression with bright, engaging eyes, genuine warm smile, subtle head tilt for approachability, shoulders relaxed, hands gently clasped at waist to show expressiveness.
+Attire: Elegant sleeveless white dress, minimalist modern design with clean lines and subtle A-line silhouette from waist up, paired with simple gold hoop earrings and a delicate gold necklace, no other accessories.
+Pose and Composition: Strict half-body portrait from waist up (mid-thigh to head for upper body focus), centered in frame with rule-of-thirds composition, body turned 45 degrees toward camera for dynamic poise, subtle eye contact with viewer, hands visible and relaxed, shallow depth of field (f/2.8) to sharply focus on face, upper body, and hands while softly blurring background edges.
+Background: Clean blue textured studio backdrop with subtle linen-like fabric texture, neutral gradient for depth, no distractions.
+Lighting: Soft natural studio lighting from a large diffused key light at 45 degrees, gentle fill light to avoid shadows, warm highlights on cheeks, eyes, and hands, cinematic color grading for realistic skin tones.
+Style: Hyper-realistic corporate headshot, high-definition clarity 8K, photorealistic skin with natural imperfections and even tones, elegant and minimalist, inspired by classic American business portraiture like Annie Leibovitz --style raw --q 2 --no blur, distortions, extra limbs, awkward crops
 ```
 </details>
 <br />
