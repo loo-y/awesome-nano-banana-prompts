@@ -16,6 +16,30 @@ Feel free to explore the prompts and see the transformations.<br>
 
 # Prompts
 <details open>
+<summary><b>isometric-map-3d-rendered-model</b></summary>
+
+|原始图片|
+|---------|
+| <img src="/images/originals/f4db4bda922267071b4d8f26.png" width="49%" /> <img src="/images/originals/88e71a2b65944028a7a0443406333dc4.png" width="49%" /> |
+|生成图片|
+| <img src="/images/generated/706ded41-873a-4ba3-9500-9366e62441a3.png" width="49%" /> <img src="/images/generated/8698bbcf5-e0ea-4cc3-9ced-d6eaf30ee076.png" width="49%" /> |
+
+```text
+Generate a Polaroid-style photo of a woman and a man in an intimate pose, ensuring high facial consistency and realism. The photo has a slight blur effect, simulating flash photography in an indoor setting, capturing the relaxed vibe of a party just ended. The woman wraps her arm around the man’s shoulder, both striking gentle and intimate poses with a playful, affectionate demeanor. The background features warm indoor lighting. The Polaroid frame should feel authentic, with a slightly retro, yellowish tint.
+```
+<br />
+
+```text
+Generate a Polaroid-style photo of a woman and a man in an intimate pose, ensuring high facial consistency and realism. The photo has a slight blur effect, simulating flash photography in an indoor setting, capturing the relaxed vibe of a party just ended. The woman wraps her arm around the man’s shoulder, while both strike playful and intimate poses. The background features warm indoor lighting. The Polaroid frame should feel authentic, with a slightly retro, yellowish tint.
+```
+<br />
+
+```text
+Generate a Polaroid-style photo of a woman and a man in an intimate pose, ensuring high facial consistency and realism. The photo has a slight blur effect, simulating flash photography in an indoor setting, capturing the relaxed vibe of a party just ended. The woman stands in front, facing the camera, while the man stands behind her, wrapping his arms around her waist in an affectionate embrace, both facing the camera with gentle, playful, and intimate expressions. The background features warm indoor lighting. The Polaroid frame should feel authentic, with a slightly retro, yellowish tint.
+```
+</details>
+<br />
+<details open>
 <summary><b>漫画转真人 studio-film-grain-doppelgänger-cosplay-8K-sharp-reference</b></summary>
 
 | 原始图片 | 生成图片 |
