@@ -16,7 +16,7 @@ Feel free to explore the prompts and see the transformations.<br>
 
 # Prompts
 <details open>
-<summary><b>isometric-map-3d-rendered-model</b></summary>
+<summary><b>polaroid-intimate-couple-post-party-warm-flash</b></summary>
 
 |原始图片|
 |---------|
