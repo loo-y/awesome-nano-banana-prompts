@@ -22,7 +22,7 @@ Feel free to explore the prompts and see the transformations.<br>
 |---------|
 | <img src="/images/originals/f4db4bda922267071b4d8f26.png" width="49%" /> <img src="/images/originals/88e71a2b65944028a7a0443406333dc4.png" width="49%" /> |
 |生成图片|
-| <img src="/images/generated/706ded41-873a-4ba3-9500-9366e62441a3.png" width="49%" /> <img src="/images/generated/8698bbcf5-e0ea-4cc3-9ced-d6eaf30ee076.png" width="49%" /> |
+| <img src="/images/generated/706ded41-873a-4ba3-9500-9366e62441a3.png" width="49%" /> <img src="/images/generated/698bbcf5-e0ea-4cc3-9ced-d6eaf30ee076.png" width="49%" /> |
 
 ```text
 Generate a Polaroid-style photo of a woman and a man in an intimate pose, ensuring high facial consistency and realism. The photo has a slight blur effect, simulating flash photography in an indoor setting, capturing the relaxed vibe of a party just ended. The woman wraps her arm around the man’s shoulder, both striking gentle and intimate poses with a playful, affectionate demeanor. The background features warm indoor lighting. The Polaroid frame should feel authentic, with a slightly retro, yellowish tint.
